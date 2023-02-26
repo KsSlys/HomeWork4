@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork4\Ex.25\bin\Debug\net6.0\Ex.25.exe
+C:\Users\User\Desktop\HomeWork4\Ex.25\bin\Debug\net6.0\Ex.25.deps.json
+C:\Users\User\Desktop\HomeWork4\Ex.25\bin\Debug\net6.0\Ex.25.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork4\Ex.25\bin\Debug\net6.0\Ex.25.dll
+C:\Users\User\Desktop\HomeWork4\Ex.25\bin\Debug\net6.0\Ex.25.pdb
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.dll
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\refint\Ex.25.dll
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.pdb
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\Ex.25.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeWork4\Ex.25\obj\Debug\net6.0\ref\Ex.25.dll
